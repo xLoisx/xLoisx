@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 📈 my github stats
 
 <p align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xLoisx&show_icons=true&theme=gotham" alt="xLoisx" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xLoisx&show_icons=true&theme=gotham" alt="xLoisx" align="center" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=xLoisx&theme=tokyonight&show_icons=true&locale=en&layout=compact&hide_border=true" alt="xLoisx" align="center"/>
 </p>
