@@ -41,11 +41,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xLoisx&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="xLoisx stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=xLoisx&theme=gotham&show_icons=true&locale=en&layout=compact&hide_border=true" alt="xLoisx top langs" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=xLoisx&theme=gotham&hide_border=true" alt="GitHub Streak" />
 </p>
 
